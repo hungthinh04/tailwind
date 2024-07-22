@@ -1,1 +1,1 @@
-open liveserver để chạy
+open live server để chạy
